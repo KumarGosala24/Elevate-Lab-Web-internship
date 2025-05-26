@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Modern responsive landing page with clean design, smooth navigation, and engaging hero section." />
+  <title>Responsive Landing Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="container nav-container">
+      <a href="#" class="logo" aria-label="Homepage">
+        <img src="Logo/GSKlogo.webp" alt="GSK Logo" />
+      </a>
+      <nav>
+        <ul class="nav-links" id="navLinks">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Features</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+        <div class="menu-icon" id="menuIcon" aria-label="Toggle navigation menu" role="button" tabindex="0">&#9776;</div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero" role="banner">
+    <div class="hero-content">
+      <h1>Design. Innovate. Elevate.</h1>
+      <p>Crafting modern, responsive websites that captivate and convert.</p>
+      <a href="#" class="cta-btn">Get Started</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container footer-container">
+      <p>&copy; 2025 MyWebsite. All rights reserved.</p>
+      <div class="socials">
+        <a href="https://github.com/KumarGosala24" target="_blank" aria-label="GitHub">🐱 GitHub</a>
+        <a href="https://www.linkedin.com/in/sowjanya-kumar-gosala/" target="_blank" aria-label="LinkedIn">🔗 LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const menuIcon = document.getElementById("menuIcon");
+    const navLinks = document.getElementById("navLinks");
+    menuIcon.onclick = () => {
+      navLinks.classList.toggle("active");
+    };
+    menuIcon.onkeypress = (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        navLinks.classList.toggle("active");
+      }
+    }
+  </script>
+
+</body>
+</html>
