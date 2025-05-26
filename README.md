@@ -40,8 +40,7 @@ This project is a **responsive, modern landing page** built with **HTML** and **
 Clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/KumarGosala24/landing-page-elevate-internship.git
-cd landing-page-elevate-internship
+git clone https://github.com/YourUsername/your-repo-name.git
 ```
 ---
 
