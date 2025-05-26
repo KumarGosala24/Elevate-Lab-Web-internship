@@ -1,5 +1,5 @@
 # Responsive Landing Page  
-> Internship Project - Elevate Labs (1 Month)
+> 📌 Internship Project — **Elevate Labs** | Duration: 1 Month
 
 ---
 
@@ -24,3 +24,31 @@ This project is a **responsive, modern landing page** built with **HTML** and **
 ![Landing Page Desktop View](https://github.com/KumarGosala24/Elevate-Lab-Web-internship/blob/977958a8dab1afb95f92af819418c7d78476d6e6/Task1/ScreenShot.png)  
 *Desktop view of the landing page.*
 
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3 (Flexbox, Media Queries)  
+- Responsive Web Design Principles
+
+---
+
+## 📥 Getting Started
+
+Clone the repository and open `index.html` in your browser:
+
+```bash
+git clone https://github.com/KumarGosala24/landing-page-elevate-internship.git
+cd landing-page-elevate-internship
+```
+---
+
+## 📚 Internship Reflection
+
+This project enhanced my understanding of responsive design, clean UI principles, and accessibility. Working with Elevate Labs helped solidify my front-end development skills and attention to detail.
+
+
+## 🙋‍♂️ Connect With Me
+🔗 [Linkedin](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
