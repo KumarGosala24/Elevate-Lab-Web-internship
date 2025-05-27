@@ -1,4 +1,4 @@
-# 📝 Task 2: To-Do List Web App (Front-End Only)
+# 📝 Task 2: To-Do List Web App 
 
 ## 📌 Objective
 Build a dynamic To-Do List web application using **Vanilla JavaScript**, allowing users to:
