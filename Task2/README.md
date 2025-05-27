@@ -50,8 +50,3 @@ Build a dynamic To-Do List web application using **Vanilla JavaScript**, allowin
 - `index.html`
 - `styles.css`
 - `script.js`
-
----
-
-Feel free to copy this directly into `Task2/README.md`. Let me know if you'd like to auto-generate the code files too (`index.html`, `styles.css`, `script.js`) as a starter template.
-
