@@ -1,4 +1,4 @@
-# Responsive Landing Page  
+# Task 1: Responsive Landing Page  
 > 📌 Internship Project — **Elevate Labs** | Duration: 1 Month
 
 ---
